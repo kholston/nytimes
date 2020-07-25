@@ -135,3 +135,27 @@ article{
   text-decoration: none;
 }
 
+.article-end{
+  width: 600px;
+  margin: 0 auto;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  
+}
+
+.article-end a{
+  color: rgb(102, 102, 102);
+}
+
+.article-footer {
+  display: flex;
+  width: 600px;
+  margin: 20px auto;
+  justify-content: space-between;
+}
+
+.article-footer button {
+  width: 327px;
+  font-size: 0.8125rem;
+  letter-spacing: 0.05em;
+}
