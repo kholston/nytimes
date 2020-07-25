@@ -54,3 +54,11 @@ article{
   margin-top: 43px;
 }
 
+.article-title{
+  max-width: 600px;
+  margin: 0 auto 1rem;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  text-align: left;
+}
+
