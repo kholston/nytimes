@@ -37,7 +37,6 @@ nav {
 
 .nav-right{
  align-self: flex-end;
- 
 }
 
 button{
@@ -113,9 +112,26 @@ article{
   height: 25px;
   width: 25px;
   padding: 5px;
+  margin:0 5px;
   background-color: #eee;
   border-radius: 50%;
   color: black;
 }
 
+.content p{
+  width: 600px;
+  margin: 20px auto;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.message a {
+  color: rgb(50, 104, 145);
+  font-weight: bold;
+  text-decoration: none;
+}
 
