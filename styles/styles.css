@@ -84,4 +84,38 @@ article{
   margin: 20px 0;
 }
 
+.article-header{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.author{
+  display: block;
+  margin: 10px 0;
+  font-size: 0.9375rem;
+  line-height: 1.25;
+}
+.header-info {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 20px;
+}
+.date{
+  padding-top: 10;
+  font-size: .8125rem;
+  line-height: 1rem;
+}
+.icon-list1 {
+  justify-content: flex-end;
+}
+.icon-list1 i{
+  height: 25px;
+  width: 25px;
+  padding: 5px;
+  background-color: #eee;
+  border-radius: 50%;
+  color: black;
+}
+
 
